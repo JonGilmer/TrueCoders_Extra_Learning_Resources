@@ -1,0 +1,6 @@
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/bin/Debug/w3schools-c-sharp.exe
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/bin/Debug/w3schools-c-sharp.pdb
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/obj/Debug/w3schools-c-sharp.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/obj/Debug/w3schools-c-sharp.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/obj/Debug/w3schools-c-sharp.exe
+/Users/JonathanGilmer/Desktop/Repos/TrueCoders_Extra_Learning_Resources/w3schools-c-sharp/w3schools-c-sharp/obj/Debug/w3schools-c-sharp.pdb
